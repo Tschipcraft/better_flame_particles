@@ -3,11 +3,11 @@
   Better Flame Particles
 </h1>
 <p align="center">
-  <a href="https://github.com/Tschipcraft/better_flame_particles/stargazers"><img src="https://img.shields.io/github/stars/Tschipcraft/better_flame_particles?colorA=1b1b29&colorB=bd5216&style=for-the-badge"></a>
-  <a href="https://github.com/Tschipcraft/better_flame_particles/releases/latest"><img src="https://img.shields.io/github/downloads/Tschipcraft/better_flame_particles/total?logo=github&colorA=1b1b29&colorB=bd5216&style=for-the-badge"></a>
+  <a href="https://github.com/Tschipcraft/better_flame_particles/stargazers"><img src="https://img.shields.io/github/stars/Tschipcraft/better_flame_particles?colorA=181712&colorB=fff5c6&style=for-the-badge"></a>
+  <a href="https://github.com/Tschipcraft/better_flame_particles/releases/latest"><img src="https://img.shields.io/github/downloads/Tschipcraft/better_flame_particles/total?logo=github&colorA=181712&colorB=fff5c6&style=for-the-badge"></a>
 </p>
 
-> A resource pack for 1.8x-1.19x
+> A resource pack for 1.14x-1.19x
 
 ## Features
 
