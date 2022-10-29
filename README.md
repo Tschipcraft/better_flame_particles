@@ -17,6 +17,7 @@ This resource pack changes the flame and soul flame particles to be animated.
 ## Preview
 <p>
   <img src="/demo.gif" style="image-rendering:crisp-edges" width="64" height="64">
+  <img src="/demo2.gif" style="image-rendering:crisp-edges" width="64" height="64">
 </p>
 
 
