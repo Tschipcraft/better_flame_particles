@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/pack.png" width="64" height="64"><br/>
+  <img src="/pack.png" width="95" height="95"><br/>
   Better Flame Particles
 </h1>
 <p align="center">
