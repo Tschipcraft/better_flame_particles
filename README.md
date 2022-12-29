@@ -26,12 +26,17 @@ This resource pack changes the flame and soul flame particles to be animated.
 
 Download the latest release from [here](https://github.com/Tschipcraft/better_flame_particles/releases/latest), put the resourcepack .zip file into your `resourcepacks` folder and activate it ingame.
 
+Also available on Modrinth and CurseForge
+
 <a href="https://modrinth.com/resourcepack/better-flame-particles/versions">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-light.svg">
   <img alt="Download on Modrinth" src="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-dark.svg">
 </picture>
+</a>
+<a href="https://www.curseforge.com/minecraft/texture-packs/better-flame-particles">
+<img alt="Download on CurseForge" src="https://i.imgur.com/zcIcoGb.png">
 </a>
 
 ## Compatibility
