@@ -9,7 +9,7 @@
   <a href="https://github.com/Tschipcraft/better_flame_particles/releases/latest"><img src="https://img.shields.io/github/downloads/Tschipcraft/better_flame_particles/total?logo=github&colorA=181712&colorB=fff5c6&style=for-the-badge"></a>
 </p>
 
-> A resource pack for 1.14x-1.19x
+> A resource pack for 1.14x-1.20x
 
 ## Features
 
@@ -31,9 +31,9 @@ Also available on Modrinth and CurseForge.
 
 <a href="https://modrinth.com/resourcepack/better-flame-particles/versions">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-light.svg">
-  <img alt="Download on Modrinth" src="https://github.com/modrinth/art/blob/main/Branding/Badge/badge-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modrinth/art/main/Branding/Badge/badge-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/modrinth/art/main/Branding/Badge/badge-light.svg">
+  <img alt="Download on Modrinth" src="https://raw.githubusercontent.com/modrinth/art/main/Branding/Badge/badge-dark.svg">
 </picture>
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/better-flame-particles">
