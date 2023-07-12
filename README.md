@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/pack_scaled.png" width="95" height="95"><br/>
+  <img src="pack.png" width="95" height="95" style="image-rendering: pixelated;"><br/>
   Better Flame Particles
 </h1>
 <p align="center">
@@ -18,8 +18,8 @@ This resource pack changes the flame and soul flame particles to be animated.
 
 ## Preview
 <p>
-  <img src="/demo.gif" style="image-rendering:crisp-edges" width="64" height="64">
-  <img src="/demo2.gif" style="image-rendering:crisp-edges" width="64" height="64">
+  <img src="demo.gif" style="image-rendering: pixelated;" width="64" height="64">
+  <img src="demo2.gif" style="image-rendering: pixelated;" width="64" height="64">
 </p>
 
 
@@ -29,7 +29,7 @@ Download the latest release from [here](https://github.com/Tschipcraft/better_fl
 
 Also available on Modrinth and CurseForge.
 
-<a href="https://modrinth.com/resourcepack/better-flame-particles/versions">
+<a href="https://modrinth.com/resourcepack/better-flame-particles">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modrinth/art/main/Branding/Badge/badge-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/modrinth/art/main/Branding/Badge/badge-light.svg">
