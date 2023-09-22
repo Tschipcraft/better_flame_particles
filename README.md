@@ -4,16 +4,18 @@
 </h1>
 <p align="center">
   <a href="https://github.com/Tschipcraft/better_flame_particles/stargazers"><img src="https://img.shields.io/github/stars/Tschipcraft/better_flame_particles?colorA=181712&colorB=fff5c6&style=for-the-badge"></a>
-  <a href="https://www.curseforge.com/minecraft/texture-packs/better-flame-particles"><img src="https://cf.way2muchnoise.eu/full_782814_downloads.svg?badge_style=for_the_badge"></a>
-  <a href="https://modrinth.com/resourcepack/better-flame-particles"><img src="https://img.shields.io/modrinth/dt/better-flame-particles?label=Modrinth&colorA=2d2d2d&colorB=44cc11&style=for-the-badge&logo=modrinth"></a>
+  <a href="https://www.curseforge.com/minecraft/texture-packs/better-flame-particles"><img src="https://img.shields.io/curseforge/dt/782814?logo=curseforge&label=CurseForge&colorA=181712&colorB=bd5216&style=for-the-badge"></a>
+  <a href="https://modrinth.com/resourcepack/better-flame-particles"><img src="https://img.shields.io/modrinth/dt/better-flame-particles?label=Modrinth&colorA=181712&colorB=44cc11&style=for-the-badge&logo=modrinth"></a>
   <a href="https://github.com/Tschipcraft/better_flame_particles/releases/latest"><img src="https://img.shields.io/github/downloads/Tschipcraft/better_flame_particles/total?logo=github&colorA=181712&colorB=fff5c6&style=for-the-badge"></a>
 </p>
 
-> A resource pack for 1.14x-1.20x
+> A resource pack for Minecraft 1.14x-1.20x
 
 ## Features
 
-This resource pack changes the flame and soul flame particles to be animated.
+_Witness mesmerizing animations as the flames dance and the soul flames flicker._
+
+This resource pack changes the flame and soul flame particles to animated versions.
 
 
 ## Preview
@@ -26,7 +28,7 @@ This resource pack changes the flame and soul flame particles to be animated.
 
 ## Installation
 
-Download the latest release from [here](https://github.com/Tschipcraft/better_flame_particles/releases/latest), put the resourcepack .zip file into your `resourcepacks` folder and activate it ingame.
+Download the latest release from [here](https://github.com/Tschipcraft/better_flame_particles/releases/latest), put the resource pack .zip file into your `resourcepacks` folder and activate it ingame.
 
 Also available on Modrinth and CurseForge.
 

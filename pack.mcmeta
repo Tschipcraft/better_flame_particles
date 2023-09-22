@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 15,
+    "supported_formats": [4,25],
     "description": "Better Flame Particles by Tschipcraft"
   }
 }
