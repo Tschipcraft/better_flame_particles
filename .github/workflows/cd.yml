@@ -96,6 +96,8 @@ jobs:
           version: ${{ github.event.inputs.tag }}
           changelog-file: CHANGES.md
 
+          loaders: |
+            resourcepack
           files: |
             ./${{ github.event.repository.name }}-*.zip
       
@@ -113,7 +115,7 @@ jobs:
           changelog-file: CHANGES.md
 
           loaders: |
-            vanilla
+            resourcepack
           files: |
             ./${{ github.event.repository.name }}-*.zip
 
