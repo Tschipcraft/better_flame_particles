@@ -1,0 +1,2 @@
+- **Support for Minecraft 1.21** ⚔️
+- Updated LICENSE
