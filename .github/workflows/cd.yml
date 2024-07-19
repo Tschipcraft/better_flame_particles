@@ -96,8 +96,6 @@ jobs:
           version: ${{ github.event.inputs.tag }}
           changelog-file: CHANGES.md
 
-          loaders: |
-            vanilla
           files: |
             ./${{ github.event.repository.name }}-*.zip
       
