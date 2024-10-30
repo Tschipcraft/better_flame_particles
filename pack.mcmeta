@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 15,
     "supported_formats": [4,2147483647],
-    "description": "Tschipcraft's Better Flame Particles \n└ v${version} ● mc${mc_version}"
+    "description": "Tschipcraft's Better Flame Particles"
   }
 }

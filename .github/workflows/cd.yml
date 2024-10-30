@@ -90,6 +90,7 @@ jobs:
           modrinth-id: ivUZsvzp
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           game-versions: ${{ github.event.inputs.mc_version_range }}
+          game-version-filter: any
           fail-mode: skip
 
           name: "Better Flame Particles v${{ github.event.inputs.tag }}"
@@ -108,6 +109,7 @@ jobs:
           curseforge-id: 782814
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           game-versions: ${{ github.event.inputs.mc_version_range }}
+          game-version-filter: any
           fail-mode: skip
 
           name: "Better Flame Particles v${{ github.event.inputs.tag }}"

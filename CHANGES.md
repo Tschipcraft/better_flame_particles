@@ -1,2 +1,1 @@
-- **Support for Minecraft 1.21** ⚔️
-- Updated LICENSE
+- Fixed modified flame particles no longer applying to candles (closes [#1](https://github.com/Tschipcraft/better_flame_particles/issues/1))
