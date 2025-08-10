@@ -1,1 +1,1 @@
-- Fixed modified flame particles no longer applying to candles (closes [#1](https://github.com/Tschipcraft/better_flame_particles/issues/1))
+- **Added support for the Copper Torch** 🥉

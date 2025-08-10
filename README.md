@@ -13,16 +13,17 @@
 
 ## Features
 
-_Witness mesmerizing animations as the flames dance and the soul flames flicker._
+_Witness mesmerizing animations as the flames dance and flicker._
 
-This resource pack changes the flame and soul flame particles to animated versions.
+This resource pack replaces the flame, soul flame, and copper flame particles with animated versions.
 
 
 ## Preview
 
 <p>
-  <img alt="Animated flame" src="demo.gif" style="image-rendering: pixelated;" width="64" height="64">
-  <img alt="Animated soul flame" src="demo2.gif" style="image-rendering: pixelated;" width="64" height="64">
+  <img alt="Animated Flame" src="demo.gif" style="image-rendering: pixelated;" width="64" height="64">
+  <img alt="Animated Soul Flame" src="demo2.gif" style="image-rendering: pixelated;" width="64" height="64">
+  <img alt="Animated Copper Flame" src="demo3.gif" style="image-rendering: pixelated;" width="64" height="64">
 </p>
 
 

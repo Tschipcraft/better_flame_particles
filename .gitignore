@@ -1,0 +1,6 @@
+# VSCode #
+.vscode
+
+# Package Files #
+*.jar
+*.zip
