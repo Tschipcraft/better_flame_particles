@@ -1,1 +1,1 @@
-- **Added support for the Copper Torch** 🥉
+- Adjusted color of copper flames to match Minecraft 1.21.9 🥉

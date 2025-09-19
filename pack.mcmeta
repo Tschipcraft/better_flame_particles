@@ -1,8 +1,9 @@
 {
   "pack": {
-    "min_format": 65,
-    "max_format": 2147483647,
     "pack_format": 65,
+    "supported_formats": [16, 2147483647],
+    "min_format": 16,
+    "max_format": 2147483647,
     "description": "Tschipcraft's Better Flame Particles"
   }
 }
