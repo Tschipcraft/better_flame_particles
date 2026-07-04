@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="Icon" src="pack.png" width="95" height="95" style="image-rendering: pixelated;"><br/>
-  Better Flame Particles
+  Tschipcraft's Better Flame Particles
 </h1>
 <p align="center">
   <a href="https://github.com/Tschipcraft/better_flame_particles/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Tschipcraft/better_flame_particles?colorA=181712&colorB=fff5c6&style=for-the-badge"></a>
@@ -9,14 +9,13 @@
   <a href="https://github.com/Tschipcraft/better_flame_particles/releases/latest"><img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Tschipcraft/better_flame_particles/total?logo=github&colorA=181712&colorB=fff5c6&style=for-the-badge"></a>
 </p>
 
-> A resource pack for Minecraft 1.14x-1.21x
+> A resource pack for Minecraft 1.14.x-26.x
 
 ## Features
 
 _Witness mesmerizing animations as the flames dance and flicker._
 
 This resource pack replaces the flame, soul flame, and copper flame particles with animated versions.
-
 
 ## Preview
 
@@ -26,10 +25,9 @@ This resource pack replaces the flame, soul flame, and copper flame particles wi
   <img alt="Animated Copper Flame" src="demo3.gif" style="image-rendering: pixelated;" width="64" height="64">
 </p>
 
-
 ## Installation
 
-Download the latest release from [here](https://github.com/Tschipcraft/better_flame_particles/releases/latest), put the resource pack .zip file into your `resourcepacks` folder and activate it ingame.
+[Download the latest release](https://github.com/Tschipcraft/better_flame_particles/releases/latest), place the resource pack <kbd>.zip</kbd> file into your `.minecraft/resourcepacks` folder, and activate it in-game.
 
 Also available on Modrinth and CurseForge.
 
@@ -46,7 +44,6 @@ Also available on Modrinth and CurseForge.
   <source height="72px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tschipcraft/badges/main/assets/curseforge-badge-light.svg">
   <img height="72px" alt="Download on CurseForge" src="https://raw.githubusercontent.com/Tschipcraft/badges/main/assets/curseforge-badge-dark.svg">
 </a>
-
 
 ## Compatibility
 
